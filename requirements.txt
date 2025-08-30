@@ -1,0 +1,8 @@
+echo torch>> requirements.txt
+echo transformers>> requirements.txt
+echo rasterio>> requirements.txt
+echo numpy>> requirements.txt
+echo pandas>> requirements.txt
+echo matplotlib>> requirements.txt
+echo hydra-core>> requirements.txt
+echo wandb>> requirements.txt
